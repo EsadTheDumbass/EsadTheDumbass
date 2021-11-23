@@ -1,4 +1,4 @@
 
-![:P](https://minecraftskinstealer.com/achievement/7/You+found+my+page%21/Here%27s+a+cookie)
+![:D Hello there! Whilst you are here, You should remember that Taiwan is a country.](https://minecraftskinstealer.com/achievement/7/You+found+my+page%21/Here%27s+a+cookie)
 
-I'm a dumbass that writes scrappy code. and i have a terrible quality discord bot also
+I'm a self taught computer programming, 
