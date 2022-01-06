@@ -46,22 +46,12 @@
   <br/>
   </p>
 </details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/EsadTheDumbass"><img alt="Esad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EsadTheDumbass12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## Popular Projects
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
+<a href="https://github.com/EsadTheDumbass/Anti-Coomer">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EsadTheDumbass&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EsadTheDumbass&repo=Anti-Coomer-Hackathon&theme=onedark" />
 </a>  
 
 
