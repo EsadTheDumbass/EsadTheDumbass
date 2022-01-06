@@ -51,7 +51,7 @@
 ## Popular Projects
 <a href="https://github.com/EsadTheDumbass/Anti-Coomer">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbass&repo=Anti-Coomer-Hackathon&theme=onedark" />
+   [![Header](https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbass&repo=Anti-Coomer)](https://github.com/EsadTheDumbass/Anti-Coomer)
 </a>  
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
