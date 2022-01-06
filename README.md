@@ -54,10 +54,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbass&repo=Anti-Coomer-Hackathon&theme=onedark" />
 </a>  
 
-
-<a href="https://github.com/aastha12/Loan_Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-   [![Header](https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbass&repo=Jarvis)](https://github.com/EsadTheDumbass/Jarvis)</a> 
+   [![Header](https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbass&repo=Jarvis)](https://github.com/EsadTheDumbass/Jarvis)
 
 ----------------------------------------------------------------------
 Credit: [aastha12](https://github.com/aastha12)
