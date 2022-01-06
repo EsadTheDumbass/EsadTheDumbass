@@ -54,6 +54,7 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
    [![Header](https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbass&repo=Jarvis)](https://github.com/EsadTheDumbass/Jarvis)
+   [(https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbass&repo=Scripts)](https://github.com/EsadTheDumbass/Scripts)
 
 ----------------------------------------------------------------------
 Credit: [aastha12](https://github.com/aastha12)
