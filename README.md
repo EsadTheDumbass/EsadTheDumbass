@@ -40,7 +40,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/EsadTheDumbass/github-readme-stats"><img alt="Esad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsadTheDumbass&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/EsadTheDumbass/EsadTheDumbass"><img alt="Esad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsadTheDumbass&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api?username=EsadTheDumbass)](https://github.com/EsadTheDumbass/github-readme-stats)" alt="aastha12" height="192px"/>
@@ -52,7 +52,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/EsadTheDumbass"><img alt="Esad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EsadTheDumbass12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -62,13 +62,13 @@
 ## Popular Projects
 <a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EsadTheDumbass&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
 </a>  
 
 
 <a href="https://github.com/aastha12/Loan_Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbass&repo=Loan_Prediction&theme=onedark" />
 </a> 
 
 ----------------------------------------------------------------------
