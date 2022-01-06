@@ -42,8 +42,7 @@
   <p align="center">
     <a href="https://github.com/EsadTheDumbass/EsadTheDumbass"><img alt="Esad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsadTheDumbass&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api?username=EsadTheDumbass)](https://github.com/EsadTheDumbass/github-readme-stats)" alt="aastha12" height="192px"/>
+ 
   <br/>
   </p>
 </details>
