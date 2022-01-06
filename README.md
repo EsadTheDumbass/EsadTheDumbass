@@ -6,8 +6,8 @@
 
 <b> I am a young highschool student with a passion for both Physics and programming</b>
 
-   <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
-    <img alt="Reddit" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <a href="https://www.reddit.com/user/asgariucret" target="_blank">
+    <img alt="Reddit" src="https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fturkishb0towner">
   </a>   
    <a href="https://stackoverflow.com/users/17835223/danteh" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
