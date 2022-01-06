@@ -14,13 +14,13 @@
   </a>  
   <a href="https://twitter.com/turkishb0towner" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fturkishb0towner">
-  </a>  
-   <a>
-   <img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
-   </a>
+  </a>
+  <a>
+    <img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+ </a>
  <a href="https://discord.gg/xkFTnqbH" target="_blank">
     <img alt="Discord" src="https://img.shields.io/twitter/url?label=Discord&logo=Discord&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fturkishb0towner">
-  </a>
+</a>
 
 - 👋 Hi, I’m Esad
 - 💼 I'm a Turkish Software developer and a Physics enthousiast
