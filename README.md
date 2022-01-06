@@ -57,7 +57,7 @@
 
 <a href="https://github.com/aastha12/Loan_Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbasss&repo=Jarvis&theme=onedark" />
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </a> 
 
 ----------------------------------------------------------------------
