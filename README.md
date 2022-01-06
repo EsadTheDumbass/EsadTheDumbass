@@ -12,8 +12,8 @@
    <a href="https://stackoverflow.com/users/17835223/danteh" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
-  <a href="https://www.kaggle.com/aastha124" target="_blank">
-    <img alt="Twitter" src="https://twitter.com/turkishb0towner">
+  <a href="https://twitter.com/turkishb0towner" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fturkishb0towner">
   </a>  
  <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
