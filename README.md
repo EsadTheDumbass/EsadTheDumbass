@@ -43,7 +43,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastha12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api?username=EsadTheDumbass)](https://github.com/EsadTheDumbass/github-readme-stats)" alt="aastha12" height="192px"/>
   <br/>
   </p>
 </details>
@@ -75,4 +75,5 @@
 Credit: [aastha12](https://github.com/aastha12)
 
 Last Edited on: 19/10/2021
+<br>
 I'm a self taught computer programmer. 
