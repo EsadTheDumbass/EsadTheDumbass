@@ -36,7 +36,7 @@
       <img alt='html' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'>
    </a>
      <a href='https://www.w3schools.com/css/'>
-      <img alt='css' src=' 	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
+      <img alt='css' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
    </a>
 
    <a href="https://www.python.org" target="_blank">
