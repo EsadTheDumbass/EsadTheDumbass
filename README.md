@@ -15,7 +15,7 @@
   <a href="https://twitter.com/turkishb0towner" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fturkishb0towner">
   </a>
-  <a href='https://mail.google.com/mail/u/0/#inbox'>
+  <a href='mailto: esadkocaturk.nl@gmail.com'>
     <img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
  </a>
   
