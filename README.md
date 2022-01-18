@@ -66,6 +66,8 @@
    [![Header](https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbass&repo=Jarvis)](https://github.com/EsadTheDumbass/Jarvis)
    <br>
    [![Header](https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbass&repo=Scripts)](https://github.com/EsadTheDumbass/Scripts)
+   [![Header](https://github-readme-stats.vercel.app/api/pin/?username=EsadTheDumbass&repo=TurkishBot)](https://github.com/EsadTheDumbass/TurkishBot)
+
 
 ----------------------------------------------------------------------
 Credit: [aastha12](https://github.com/aastha12)
