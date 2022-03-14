@@ -1,5 +1,5 @@
 
-![:D Hello there! Whilst you are here, You should remember that Taiwan is a country.](https://minecraftskinstealer.com/achievement/7/You+found+my+page%21/Here%27s+a+cookie)
+![:D Hello there! Whilst you are here, You should remember that Taiwan is a country. Also Putin is a wet-dreaming little pussy.](https://minecraftskinstealer.com/achievement/7/You+found+my+page%21/Here%27s+a+cookie)
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on any project made with languages I know!
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ <img alt='css' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
    <a href='https://html.com/'>
       <img alt='html' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'>
    </a>
