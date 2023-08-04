@@ -1,10 +1,9 @@
 
-![:D Hello there! Whilst you are here, You should remember that Taiwan is a country. Also Putin is a wet-dreaming little pussy.](https://minecraftskinstealer.com/achievement/7/You+found+my+page%21/Here%27s+a+cookie)
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
-<b> I am a young highschool student with a passion for both Physics and programming</b>
+<b> I am a highschool student with a passion for both Physics and programming</b>
 
    <a href="https://www.reddit.com/user/asgariucret" target="_blank">
     <img alt="Reddit" src="https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fturkishb0towner">
@@ -23,10 +22,7 @@
     <img alt="Discord" src="https://img.shields.io/twitter/url?label=Discord&logo=Discord&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fturkishb0towner">
 </a>
 
-- 👋 Hi, I’m Esad
-- 💼 I'm a Turkish Software developer and a Physics enthousiast
-- 💬 Talk to me about anything, I love meeting new people.
-- 👯 I’m looking to collaborate on any project made with languages I know!
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
    <a href='https://html.com/'>
