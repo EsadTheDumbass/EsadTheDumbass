@@ -3,7 +3,7 @@
 <p align='center'>
 </p>
 
-<b> I am a highschool student with a passion for both Physics and programming</b>
+<b> Highschool programming</b>
 
    <a href="https://www.reddit.com/user/asgariucret" target="_blank">
     <img alt="Reddit" src="https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fturkishb0towner">
